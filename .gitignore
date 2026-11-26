@@ -1,0 +1,8 @@
+venv/
+__pycache__/
+docs/pitch_profesor.pdf
+docs/GUION_NARRACION.md
+docs/GUION_VIDEO.md
+docs/canva_preview*.png
+docs/TP_Ciclo_Solar_slides.pdf
+docs/slides.html
